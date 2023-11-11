@@ -1,4 +1,4 @@
 # Python-Projects
 My jupyter notebooks 
 
-Anwering business questions, forcasting and visualizing outputs
+Answering business questions, forcasting and visualizing outputs
