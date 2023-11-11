@@ -1,2 +1,4 @@
 # Python-Projects
-A folder for my Python projects 
+My jupyter notebooks 
+
+Anwering business questions, forcasting and visualizing outputs
